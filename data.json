@@ -1,35 +1,35 @@
 {
-    "name": "Paul's portfolio",
-    "icon": "./assets/images/home/paul.png",
+    "name": ".COM MAGAZINE",
+    "icon": "./assets/images/home/LOGO.png",
 
     "pages": [
         {
-            "icon": "./assets/images/home/paul.png",
-            "name": "About",
+            "icon": "./assets/images/home/LOGO.png",
+            "name": "Home",
             "link": "/about",
             "content": "content/about.md"
         },
         {
             "icon": "📖",
-            "name": "Blogs",
+            "name": "Magazine",
             "link": "/blogs",
             "content": "content/blogs.html"
         },
         {
             "icon": "bi bi-suitcase-lg-fill",
-            "name": "Work Experience",
+            "name": "Articles",
             "link": "/experience",
             "content": "content/experience.md"
         },
         {
             "icon": "🔥",
-            "name": "Open source",
+            "name": "Shop",
             "link": "/open-source",
             "content": "content/projects.html"
         },
         {
             "icon": "✨",
-            "name": "skills",
+            "name": "About",
             "link": "/skills",
             "content": "content/skills.md"
         },
